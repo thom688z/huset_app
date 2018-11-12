@@ -1,0 +1,46 @@
+html {
+
+font-family: 'Roboto', sans-serif;
+
+}
+
+a {
+
+text-decoration: none;
+
+}
+
+H1 {
+    font-size: 5rem;
+    margin-top: 3em;
+    font-weight: bolder;
+    text-align: center;
+    color: #302320;
+}
+
+P {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    max-width: 50ch;
+    overflow: hidden;
+}
+
+a: {
+
+font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    max-width: 50ch;
+
+}
+
+
+/*Media queries*/
+@media screen and (max-width: 375px) {
+
+#velkommen h1 {
+
+font-size: 2em;
+
+    }
+
+}
